@@ -1,0 +1,6 @@
+framework module Pods_newsList_week1demo {
+  umbrella header "Pods-newsList_week1demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
